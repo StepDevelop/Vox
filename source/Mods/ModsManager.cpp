@@ -199,7 +199,7 @@ string ModsManager::GetGraphicsPack()
 	return "";
 }
 
-// Sound pack
+// Sound packs
 string ModsManager::GetSoundPack()
 {
 	for (unsigned int i = 0; i < m_vpMods.size(); i++)
